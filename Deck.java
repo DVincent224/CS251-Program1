@@ -1,5 +1,3 @@
-import java.util.Random;
-
 // CS 251-401 Program 1
 // Daniel Vincent
 
