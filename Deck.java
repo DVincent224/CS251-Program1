@@ -1,6 +1,6 @@
 // CS 251-401 Program 1
 // Daniel Vincent
-
+//Test
 public class Deck {
 
     public static void initDeck(boolean[] deck){
